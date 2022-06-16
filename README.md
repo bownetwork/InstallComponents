@@ -1,2 +1,2 @@
-# BowOS Server
-The new Bow Server release! Based on Ubuntu, but with tons of extras! We include Flatpak (repo for packages), Emacs (text editor), and more! We're adding more programs in a future release.
+# Bow Network Setup
+A shell script to download Bow Network's components. This is designed to quickly get Bow Network running on any device.
